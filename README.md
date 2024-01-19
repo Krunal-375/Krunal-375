@@ -3,8 +3,11 @@
 ## About Me
 - 🎓 I'm a second-year student at Symbiosis Institute of Technology in Nagpur, Maharashtra.
 - 💼 I work as an Android developer in Google Developer Students Club.
-- 🌱 I'm currently focused on learning Android Development.
+- 🌱 I'm currently focused on learning Mobile App Development.
 - 👀 I'm passionate about contributing to open-source projects.
+
+## My Tech Stack
+- Flutter, Dart, Java, Kotlin, Firebase, SQLite, JSON, API, Figma
 
 ## Get in Touch
 - 📫 You can reach me via email: [krunaldhapodkar24@gmail.com](mailto:krunaldhapodkar24@gmail.com)
