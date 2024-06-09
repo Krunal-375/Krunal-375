@@ -1,7 +1,7 @@
 # Hi there, I'm Krunal Dhapodkar 👋
 
 ## About Me
-- 🎓 I'm a second-year student at Symbiosis Institute of Technology in Nagpur, Maharashtra.
+- 🎓 I'm a third-year student at Symbiosis Institute of Technology in Nagpur, Maharashtra.
 - 💼 I work as an Android developer in Google Developer Students Club.
 - 🌱 I'm currently focused on learning Mobile App Development.
 - 👀 I'm passionate about contributing to open-source projects.
